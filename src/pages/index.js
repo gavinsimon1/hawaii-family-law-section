@@ -16,7 +16,7 @@ const IndexPage = () => (
     </p>
     <h4>Interested in joining the Family Law Section?</h4>
     <p>If you are a licensed Hawaii attorney, and provide legal assistance to families and children, we cordially invite you to join the Family Law Section.</p>
-   <p>Please contact <a href="mailto:michelle.moorhead@legalaidhawaii.org?subject=Interested in joining the Family Law Section">Michelle Moorhead</a> for more information</p>
+   <p>Please contact <a href="mailto:michelle.moorhead@legalaidhawaii.org?subject=Interested in joining the Family Law Section" target="_blank">Michelle Moorhead</a> for more information</p>
 
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
 
