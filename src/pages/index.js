@@ -10,8 +10,8 @@ const IndexPage = () => (
     <SEO title="Home" />
     <h3>Aloha and Welcome</h3>
     <p>The Family Law Section of the Hawaii State Bar Association ("HSBA").  Membership is open to all HSBA attorney members in good standing.  
-      The section meets monthly for education and discussion, conducts separate instrucional programs,
-      publishes its own educational materials, and actively participates with the Family Courts in all four Circuits in many joint activities to help thos of Hawaii's families and children that have legal needs.
+      The section meets monthly for education and discussion, conducts separate instructional programs,
+      publishes its own educational materials, and actively participates with the Family Courts in all four Circuits in many joint activities to help those of Hawaii's families and children that have legal needs.
       The activities of the Section are purposely designed and structured to assist family law attorneys with all levels of skill and experience.
     </p>
     <h4>Interested in joining the Family Law Section?</h4>
